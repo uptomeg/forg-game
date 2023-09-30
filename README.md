@@ -1,5 +1,6 @@
 # forg-game
 A Frogger game written in Assembly
+Final project of CSC258: Computer Organization, earned full marks for this project.
 
 # Gameplay
 - There are two levels in the game
